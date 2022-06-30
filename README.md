@@ -1,15 +1,14 @@
-# ReactJS
-
 # React Basic
 
-- **Create a Simple JSX Element**
+<details>
+<summary>**Create a Simple JSX Element**</summary>
     
     ```jsx
     const JSX = (
       <h1>Hello JSX!</h1>
     );
     ```
-    
+</details>    
 - **Create a Complex JSX Element**
     
     ```jsx
